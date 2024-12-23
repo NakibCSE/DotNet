@@ -1,0 +1,14 @@
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.exe
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.deps.json
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.runtimeconfig.json
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.dll
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.pdb
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.AssemblyInfoInputs.cache
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.AssemblyInfo.cs
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.csproj.CoreCompileInputs.cache
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.dll
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\refint\CSharpTopics.dll
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.pdb
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.genruntimeconfig.cache
+D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\ref\CSharpTopics.dll
