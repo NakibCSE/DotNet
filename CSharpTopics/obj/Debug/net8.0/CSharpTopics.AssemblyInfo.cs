@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpTopics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299df1faf9e6068e11786378f67531b04578797f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpTopics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpTopics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

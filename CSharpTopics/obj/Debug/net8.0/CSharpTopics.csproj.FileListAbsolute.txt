@@ -12,3 +12,18 @@ D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\refint\CSharpTopics.dll
 D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.pdb
 D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.genruntimeconfig.cache
 D:\DevSkill\Dot Net\DotNet\CSharpTopics\obj\Debug\net8.0\ref\CSharpTopics.dll
+E:\Personal\DevSkill\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.exe
+E:\Personal\DevSkill\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.deps.json
+E:\Personal\DevSkill\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.runtimeconfig.json
+E:\Personal\DevSkill\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.dll
+E:\Personal\DevSkill\DotNet\CSharpTopics\bin\Debug\net8.0\CSharpTopics.pdb
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.AssemblyInfoInputs.cache
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.AssemblyInfo.cs
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.csproj.CoreCompileInputs.cache
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.sourcelink.json
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.dll
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\refint\CSharpTopics.dll
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.pdb
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\CSharpTopics.genruntimeconfig.cache
+E:\Personal\DevSkill\DotNet\CSharpTopics\obj\Debug\net8.0\ref\CSharpTopics.dll

@@ -23,7 +23,7 @@ namespace CSharpTopics
 
         public double CalculatePriceAfterTax()
         {
-            return Price - Tax;
+            return Price + Tax;
         }
         public double CalculateDiscount(double discount)
         {
