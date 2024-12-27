@@ -1,0 +1,14 @@
+D:\DevSkill\Dot Net\DotNet\LinqExample\bin\Debug\net8.0\LinqExample.exe
+D:\DevSkill\Dot Net\DotNet\LinqExample\bin\Debug\net8.0\LinqExample.deps.json
+D:\DevSkill\Dot Net\DotNet\LinqExample\bin\Debug\net8.0\LinqExample.runtimeconfig.json
+D:\DevSkill\Dot Net\DotNet\LinqExample\bin\Debug\net8.0\LinqExample.dll
+D:\DevSkill\Dot Net\DotNet\LinqExample\bin\Debug\net8.0\LinqExample.pdb
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.AssemblyInfoInputs.cache
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.AssemblyInfo.cs
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.csproj.CoreCompileInputs.cache
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.dll
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\refint\LinqExample.dll
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.pdb
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\LinqExample.genruntimeconfig.cache
+D:\DevSkill\Dot Net\DotNet\LinqExample\obj\Debug\net8.0\ref\LinqExample.dll
