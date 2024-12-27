@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Personal\\DevSkill\\DotNet\\",
+  "WorkspaceRootPath": "D:\\DevSkill\\DotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|e:\\personal\\devskill\\dotnet\\csharptopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|d:\\devskill\\dotnet\\csharptopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|solutionrelative:csharptopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|e:\\personal\\devskill\\dotnet\\csharptopics\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|d:\\devskill\\dotnet\\csharptopics\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|solutionrelative:csharptopics\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|e:\\personal\\devskill\\dotnet\\csharptopics\\ipurchaseable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|d:\\devskill\\dotnet\\csharptopics\\ipurchaseable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F8E2C2E-AD2D-468C-A8D7-E2515AD9F214}|CSharpTopics\\CSharpTopics.csproj|solutionrelative:csharptopics\\ipurchaseable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{206CEB7E-F861-4AE1-9E0E-C21100FC4A94}|DotNet\\DotNet.csproj|e:\\personal\\devskill\\dotnet\\dotnet\\dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{206CEB7E-F861-4AE1-9E0E-C21100FC4A94}|DotNet\\DotNet.csproj|d:\\devskill\\dotnet\\dotnet\\dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{206CEB7E-F861-4AE1-9E0E-C21100FC4A94}|DotNet\\DotNet.csproj|solutionrelative:dotnet\\dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\Program.cs",
+              "DocumentMoniker": "D:\\DevSkill\\DotNet\\CSharpTopics\\Program.cs",
               "RelativeDocumentMoniker": "CSharpTopics\\Program.cs",
-              "ToolTip": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\Program.cs",
+              "ToolTip": "D:\\DevSkill\\DotNet\\CSharpTopics\\Program.cs",
               "RelativeToolTip": "CSharpTopics\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T03:07:45.764Z",
               "EditorCaption": ""
@@ -44,41 +44,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DotNet",
-              "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
+              "Title": "DotNet.csproj",
+              "DocumentMoniker": "D:\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
               "RelativeDocumentMoniker": "DotNet\\DotNet.csproj",
-              "ToolTip": "E:\\Personal\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
+              "ToolTip": "D:\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
               "RelativeToolTip": "DotNet\\DotNet.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-24T03:07:45.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T03:07:45.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\Product.cs",
+              "DocumentMoniker": "D:\\DevSkill\\DotNet\\CSharpTopics\\Product.cs",
               "RelativeDocumentMoniker": "CSharpTopics\\Product.cs",
-              "ToolTip": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\Product.cs",
+              "ToolTip": "D:\\DevSkill\\DotNet\\CSharpTopics\\Product.cs",
               "RelativeToolTip": "CSharpTopics\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T03:07:36.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T03:07:36.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IPurchaseable.cs",
-              "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\IPurchaseable.cs",
+              "DocumentMoniker": "D:\\DevSkill\\DotNet\\CSharpTopics\\IPurchaseable.cs",
               "RelativeDocumentMoniker": "CSharpTopics\\IPurchaseable.cs",
-              "ToolTip": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\IPurchaseable.cs",
+              "ToolTip": "D:\\DevSkill\\DotNet\\CSharpTopics\\IPurchaseable.cs",
               "RelativeToolTip": "CSharpTopics\\IPurchaseable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T03:07:29.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T03:07:29.3Z"
             }
           ]
         }
