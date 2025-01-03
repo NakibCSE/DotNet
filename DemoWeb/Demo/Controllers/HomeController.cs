@@ -7,14 +7,18 @@ namespace Demo.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IItemcs _item;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IItemcs item)
         {
             _logger = logger;
+            _item = item;
         }
 
         public IActionResult Index()
         {
+            var amount = _item.GetAmount();
+            _logger.LogInformation("I am in Index page.");
             return View();
         }
 
