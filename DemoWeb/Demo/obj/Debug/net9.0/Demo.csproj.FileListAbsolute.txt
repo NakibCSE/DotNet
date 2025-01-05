@@ -394,3 +394,14 @@ D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scrip
 D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Autofac.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Autofac.Extensions.DependencyInjection.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\DevSkill\DotNet\DemoWeb\Demo\bin\Debug\net9.0\Serilog.Sinks.File.dll
