@@ -30,6 +30,10 @@ try
         ContainerBuilder.RegisterModule(new WebModule());
     });
     #endregion
+    #region Service collection Dependency Injection
+    builder.Services.AddKeyedScoped<IProduct, Product1>("Config1");
+    builder.Services.AddKeyedScoped<IProduct, Product2>("Config2");
+    #endregion
     #region serilog configuration
     builder.Host.UseSerilog((context, lc) => lc
         .MinimumLevel.Debug()

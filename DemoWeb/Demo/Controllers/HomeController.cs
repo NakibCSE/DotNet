@@ -9,7 +9,7 @@ namespace Demo.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IItemcs _item;
 
-        public HomeController(ILogger<HomeController> logger, IItemcs item)
+        public HomeController(ILogger<HomeController> logger, IItemcs item, [FromKeyedServices("Config1")] IProduct product)
         {
             _logger = logger;
             _item = item;
