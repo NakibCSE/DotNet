@@ -2,6 +2,7 @@
 {
     public interface IProduct
     {
-
+        double GetPrice();
     }
 }
+ 
