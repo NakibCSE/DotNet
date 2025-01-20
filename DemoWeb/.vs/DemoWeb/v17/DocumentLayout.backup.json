@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DevSkill\\DotNet\\DemoWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|d:\\devskill\\dotnet\\demoweb\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|d:\\devskill\\dotnet\\demoweb\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|d:\\devskill\\dotnet\\demoweb\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|d:\\devskill\\dotnet\\demoweb\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|d:\\devskill\\dotnet\\demoweb\\demo\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
               "ToolTip": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Program.cs",
               "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T15:17:40.525Z",
               "IsPinned": true,
@@ -92,8 +92,7 @@
               "RelativeToolTip": "Demo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:11:54.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T16:11:54.245Z"
             },
             {
               "$type": "Document",
@@ -105,12 +104,11 @@
               "RelativeToolTip": "Demo\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T16:00:30.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T16:00:30.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\appsettings.json",
               "RelativeDocumentMoniker": "Demo\\appsettings.json",
@@ -118,12 +116,11 @@
               "RelativeToolTip": "Demo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T16:37:00.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T16:37:00.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WebModule.cs",
               "DocumentMoniker": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\WebModule.cs",
               "RelativeDocumentMoniker": "Demo\\WebModule.cs",
@@ -131,12 +128,11 @@
               "RelativeToolTip": "Demo\\WebModule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:57:07.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T15:57:07.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Demo\\Controllers\\HomeController.cs",

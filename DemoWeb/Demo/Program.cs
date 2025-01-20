@@ -95,6 +95,6 @@ catch(Exception ex)
     Log.Fatal(ex, "Application crashed");
 }
 finally
-{
+{ 
     Log.CloseAndFlush();
 }
