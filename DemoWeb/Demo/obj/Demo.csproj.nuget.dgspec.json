@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj": {}
+    "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj": {
+    "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj",
+        "projectUniqueName": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj",
-        "packagesPath": "C:\\Users\\Nazim Uddin Nakib\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\",
+        "projectPath": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\nakki\\.nuget\\packages\\",
+        "outputPath": "D:\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nazim Uddin Nakib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nakki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
