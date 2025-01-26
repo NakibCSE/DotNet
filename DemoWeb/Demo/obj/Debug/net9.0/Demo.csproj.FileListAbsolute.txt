@@ -664,7 +664,6 @@ E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\Demo.MvcApplicationPar
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\Demo.sourcelink.json
-E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\scopedcss\projectbundle\Demo.bundle.scp.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
@@ -791,8 +790,6 @@ E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\e271ricx8k-
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\howp0n562n-9vr69e8ynj.gz
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\tos7c6j13o-87fc7y1x7t.gz
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\7lngz78okd-mlv21k5csn.gz
-E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\ul1x6okfm4-un1pull7jt.gz
-E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\11h0lan7qe-un1pull7jt.gz
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\staticwebassets.build.json
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\staticwebassets.development.json
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -824,3 +821,18 @@ D:\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\nxe1obrsee-3xv8oehij
 D:\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\scopedcss\Views\Shared\_PublicLayout.cshtml.rz.scp.css
 D:\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\ul1x6okfm4-zrxfc4m6r5.gz
 D:\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\11h0lan7qe-zrxfc4m6r5.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\scopedcss\Views\Shared\_PublicLayout.cshtml.rz.scp.css
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\6penla59kn-mw6sxbf0qy.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\wi0lnovug0-3zpwalpuda.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\9nuxwakln3-nqbwewaiyc.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\1q8uir7vdz-nt7juh6h50.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\cogb7uoeom-3squaghps6.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\ah6wiiidpg-a1v63x9wfv.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\kbho2ou5rz-g954zfyzc2.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\2ysj6x095o-q8ls3kvgdx.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\cg09nj1j33-qacilm03ac.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\1sb96hnrkk-ddky5r22iq.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\gdmubade7y-wmxgv7s433.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\nxe1obrsee-3xv8oehij3.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\ul1x6okfm4-zrxfc4m6r5.gz
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\obj\Debug\net9.0\compressed\11h0lan7qe-zrxfc4m6r5.gz
