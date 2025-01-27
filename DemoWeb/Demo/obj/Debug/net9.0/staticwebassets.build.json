@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OGdLsPlQHGTcwtlV99/qIosBXUmenSsk08fGAyeKxtU=",
+  "Hash": "k53hLxA1kTeM/tCItUtJqC/61KT+bgiqMUAYyDTIZZU=",
   "Source": "Demo",
   "BasePath": "_content/Demo",
   "Mode": "Default",
@@ -1445,6 +1445,27 @@
       "OriginalItemSpec": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+      "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\18igqk93wk-874ducvieq.gz",
+      "SourceId": "Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Demo",
+      "RelativePath": "scss/demo.min#[.{fingerprint=874ducvieq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zlfq4iw4r4",
+      "Integrity": "eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.min.css"
+    },
+    {
       "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\194iqn2y57-4d85u1mtcx.gz",
       "SourceId": "Demo",
       "SourceType": "Discovered",
@@ -1779,6 +1800,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\4h6cwdwsla-2p54tmrvvc.gz",
+      "SourceId": "Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Demo",
+      "RelativePath": "scss/demo#[.{fingerprint=2p54tmrvvc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "emhpf6zhm7",
+      "Integrity": "iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css"
     },
     {
       "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
@@ -6567,6 +6609,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\_another.scss",
+      "SourceId": "Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\",
+      "BasePath": "_content/Demo",
+      "RelativePath": "scss/_another#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "spwng94m9q",
+      "Integrity": "oGZeQpobWACqOUjVOpYgHotvFT2JmxA1CJsGaQMI/y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\_another.scss"
+    },
+    {
+      "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
+      "SourceId": "Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\",
+      "BasePath": "_content/Demo",
+      "RelativePath": "scss/demo#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2p54tmrvvc",
+      "Integrity": "1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\demo.css"
+    },
+    {
+      "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.min.css",
+      "SourceId": "Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\",
+      "BasePath": "_content/Demo",
+      "RelativePath": "scss/demo.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "874ducvieq",
+      "Integrity": "fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\demo.min.css"
+    },
+    {
+      "Identity": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.scss",
+      "SourceId": "Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\",
+      "BasePath": "_content/Demo",
+      "RelativePath": "scss/demo#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q2ttlyzmla",
+      "Integrity": "cuXe1nkFtqktbCO2RDAw3cWhuCLtZTTYPMVVBlYz7aQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\demo.scss"
     }
   ],
   "Endpoints": [
@@ -42947,6 +43073,766 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
+        }
+      ]
+    },
+    {
+      "Route": "scss/_another.scss",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\_another.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGZeQpobWACqOUjVOpYgHotvFT2JmxA1CJsGaQMI/y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:08:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGZeQpobWACqOUjVOpYgHotvFT2JmxA1CJsGaQMI/y0="
+        }
+      ]
+    },
+    {
+      "Route": "scss/_another.spwng94m9q.scss",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\_another.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGZeQpobWACqOUjVOpYgHotvFT2JmxA1CJsGaQMI/y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:08:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "spwng94m9q"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/_another.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGZeQpobWACqOUjVOpYgHotvFT2JmxA1CJsGaQMI/y0="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.2p54tmrvvc.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\4h6cwdwsla-2p54tmrvvc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007633587786"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2p54tmrvvc"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.2p54tmrvvc.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2p54tmrvvc"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.2p54tmrvvc.css.gz",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\4h6cwdwsla-2p54tmrvvc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2p54tmrvvc"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\4h6cwdwsla-2p54tmrvvc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007633587786"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rpTBp7PyscZIo+pP5+fapk2QswaUKmhgHBBZmW9Ty0="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.css.gz",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\4h6cwdwsla-2p54tmrvvc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iiOajIN28W7n8I0lvhX6np7TGsGle1dbND+1Q9m2dFI="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.min.874ducvieq.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\18igqk93wk-874ducvieq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008474576271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "874ducvieq"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.min.874ducvieq.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "874ducvieq"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.min.874ducvieq.css.gz",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\18igqk93wk-874ducvieq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "874ducvieq"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.min.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\18igqk93wk-874ducvieq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008474576271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.min.css",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKs8pT9SiPrWY6sNBudBzfEJ+or2fLaQyRYRrPxawtw="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.min.css.gz",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\obj\\Debug\\net9.0\\compressed\\18igqk93wk-874ducvieq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSIBM/+Uc0THQdF/uKLoZ7emS01Vn3nzL1QxX55Gqqk="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.q2ttlyzmla.scss",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuXe1nkFtqktbCO2RDAw3cWhuCLtZTTYPMVVBlYz7aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:10:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2ttlyzmla"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/demo.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cuXe1nkFtqktbCO2RDAw3cWhuCLtZTTYPMVVBlYz7aQ="
+        }
+      ]
+    },
+    {
+      "Route": "scss/demo.scss",
+      "AssetFile": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuXe1nkFtqktbCO2RDAw3cWhuCLtZTTYPMVVBlYz7aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:10:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cuXe1nkFtqktbCO2RDAw3cWhuCLtZTTYPMVVBlYz7aQ="
         }
       ]
     }

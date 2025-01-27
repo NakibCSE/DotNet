@@ -1,5 +1,6 @@
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\scss\demo.min.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\css\site.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\admin-lte-4\css\adminlte.min.css.map
@@ -12,6 +13,7 @@ E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\jquery-validation\dist\jque
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\scss\demo.css
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\jquery-validation\dist\additional-methods.js
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 E:\Personal\DevSkill\DotNet\DemoWeb\Demo\wwwroot\admin-lte-4\css\adminlte.css
@@ -181,3 +183,7 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\scss\_another.scss
+wwwroot\scss\demo.css
+wwwroot\scss\demo.min.css
+wwwroot\scss\demo.scss

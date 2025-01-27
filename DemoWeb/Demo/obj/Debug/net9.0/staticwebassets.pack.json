@@ -441,6 +441,22 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\_another.scss",
+      "PackagePath": "staticwebassets\\scss\\_another.scss"
+    },
+    {
+      "Id": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
+      "PackagePath": "staticwebassets\\scss\\demo.css"
+    },
+    {
+      "Id": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.min.css",
+      "PackagePath": "staticwebassets\\scss\\demo.min.css"
+    },
+    {
+      "Id": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.scss",
+      "PackagePath": "staticwebassets\\scss\\demo.scss"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
