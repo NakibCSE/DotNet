@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTopics", "CSharpTopic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExample", "LinqExample\LinqExample.csproj", "{9E31BF0C-E0F5-464B-852E-8DD29F9DA241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODPrinciples", "OODPrinciples\OODPrinciples.csproj", "{96D213C5-1F08-4F45-8293-FD0A2D3ACFEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9E31BF0C-E0F5-464B-852E-8DD29F9DA241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E31BF0C-E0F5-464B-852E-8DD29F9DA241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E31BF0C-E0F5-464B-852E-8DD29F9DA241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D213C5-1F08-4F45-8293-FD0A2D3ACFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D213C5-1F08-4F45-8293-FD0A2D3ACFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D213C5-1F08-4F45-8293-FD0A2D3ACFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D213C5-1F08-4F45-8293-FD0A2D3ACFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

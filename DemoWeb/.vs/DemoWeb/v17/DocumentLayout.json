@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|e:\\personal\\devskill\\dotnet\\demoweb\\demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|e:\\personal\\devskill\\dotnet\\demoweb\\demo\\wwwroot\\scss\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\scss\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|e:\\personal\\devskill\\dotnet\\demoweb\\demo\\wwwroot\\scss\\_another.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\scss\\_another.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|e:\\personal\\devskill\\dotnet\\demoweb\\demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75278405-67C3-46BF-9DBF-840F79B0F62C}|Demo\\Demo.csproj|e:\\personal\\devskill\\dotnet\\demoweb\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -77,11 +77,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_another.scss",
               "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\_another.scss",
               "RelativeDocumentMoniker": "Demo\\wwwroot\\scss\\_another.scss",
@@ -89,12 +89,11 @@
               "RelativeToolTip": "Demo\\wwwroot\\scss\\_another.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-01-27T07:49:59.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T07:49:59.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Demo\\Views\\Home\\Index.cshtml",
@@ -107,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "demo.css",
               "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
               "RelativeDocumentMoniker": "Demo\\wwwroot\\scss\\demo.css",
               "ToolTip": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.css",
               "RelativeToolTip": "Demo\\wwwroot\\scss\\demo.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-26T09:13:23.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "demo.scss",
               "DocumentMoniker": "E:\\Personal\\DevSkill\\DotNet\\DemoWeb\\Demo\\wwwroot\\scss\\demo.scss",
               "RelativeDocumentMoniker": "Demo\\wwwroot\\scss\\demo.scss",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "Demo\\wwwroot\\scss\\demo.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-01-26T05:50:07.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T05:50:07.858Z"
             },
             {
               "$type": "Document",
