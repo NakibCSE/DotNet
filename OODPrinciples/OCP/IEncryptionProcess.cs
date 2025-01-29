@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.OCP
 {
-    public interface EncryptionProcess
+    public interface IEncryptionProcess
     {
         public string EncryptPassword(string password);
     }

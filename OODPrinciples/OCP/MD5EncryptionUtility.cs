@@ -11,14 +11,7 @@ namespace OODPrinciples.OCP
         private readonly string _encryptionHash = "This sis is my original sis";
         public string EncryptPassword(string password)
         {
-            if (algorithm == "MD5")
-            {
-                //use md5 hashing algorithm
-            }
-            else if(algorithm == "SHA256")
-            { 
-                //use sha256 algorithm
-            }
+            //Use MD5 hashing algorithm
             throw new NotImplementedException();
         }
     }
