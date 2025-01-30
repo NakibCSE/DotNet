@@ -8,6 +8,8 @@ namespace OODPrinciples.ISP
 {
     public interface IBird
     {
-
+        void Fly();
+        void Walk();
+        void MakeSound();
     }
 }

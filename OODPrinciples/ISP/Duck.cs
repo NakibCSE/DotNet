@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.ISP
 {
-    internal class Duck
+    public class Duck : IBird
     {
+        public void Fly()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void MakeSound()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Walk()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
