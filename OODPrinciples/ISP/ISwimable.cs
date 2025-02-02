@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.ISP
 {
-    public interface IBird
+    public interface ISwimable
     {
-        void Fly();
-        void Walk();
         void Swim();
     }
 }

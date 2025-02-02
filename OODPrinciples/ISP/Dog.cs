@@ -6,19 +6,9 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.ISP
 {
-    public class Duck : ISwimable, IWalkable, IFlyable
+    public class Dog : IWalkable, ISwimable
     {
-        public void Fly()
-        {
-            throw new NotImplementedException();
-        }
-
         public void Swim()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Swimz()
         {
             throw new NotImplementedException();
         }

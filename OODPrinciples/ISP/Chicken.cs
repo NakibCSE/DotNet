@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.ISP
 {
-    public interface IBird
+    public class Chicken : IWalkable
     {
-        void Fly();
-        void Walk();
-        void Swim();
+        public void Walk()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
