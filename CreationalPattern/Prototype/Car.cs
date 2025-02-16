@@ -13,7 +13,7 @@ namespace CreationalPattern.Prototype
         public double Speed { get; set; }
         public double Fuel { get; set; }
 
-        #region Prototype pattern : If we need multiple copy of instance, instead of creating the instance again and again. 
+        #region Prototype pattern : We can copy/ clone of the existing object
         public Car Copy()
         {
             return new Car { Fuel = Fuel, Model = Model };
