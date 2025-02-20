@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "bWW3RKS1bFo=",
+=======
+  "dgSpecHash": "7OSfrkIHgtU=",
+>>>>>>> 610471b0021d603e6cfb8321ad07e5661e725586
   "success": true,
-  "projectFilePath": "E:\\Personal\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
+  "projectFilePath": "D:\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

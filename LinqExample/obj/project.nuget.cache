@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "J3tsW+ZRVj0=",
+=======
+  "dgSpecHash": "BMnQKZ7+aas=",
+>>>>>>> 610471b0021d603e6cfb8321ad07e5661e725586
   "success": true,
-  "projectFilePath": "E:\\Personal\\DevSkill\\DotNet\\LinqExample\\LinqExample.csproj",
+  "projectFilePath": "D:\\DevSkill\\DotNet\\LinqExample\\LinqExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
