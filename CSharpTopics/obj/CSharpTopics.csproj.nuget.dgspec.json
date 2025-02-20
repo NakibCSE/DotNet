@@ -10,14 +10,14 @@
         "projectUniqueName": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\CSharpTopics.csproj",
         "projectName": "CSharpTopics",
         "projectPath": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\CSharpTopics.csproj",
-        "packagesPath": "C:\\Users\\Nazim Uddin Nakib\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Nakib\\.nuget\\packages\\",
         "outputPath": "E:\\Personal\\DevSkill\\DotNet\\CSharpTopics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nazim Uddin Nakib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nakib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
