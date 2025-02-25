@@ -15,6 +15,7 @@ namespace Demo.Controllers
         [HttpPost]
         public IActionResult Index(IndexModel model)
         {
+          
             return View(model);
         }
     }
