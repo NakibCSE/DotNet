@@ -8,37 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Nakib\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\nakki\\.nuget\\packages\\": {},
->>>>>>> 610471b0021d603e6cfb8321ad07e5661e725586
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
+      "projectUniqueName": "E:\\Personal\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
       "projectName": "DotNet",
-<<<<<<< HEAD
       "projectPath": "E:\\Personal\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
-      "packagesPath": "C:\\Users\\Nakib\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "E:\\Personal\\DevSkill\\DotNet\\DotNet\\obj\\",
-=======
-      "projectPath": "D:\\DevSkill\\DotNet\\DotNet\\DotNet.csproj",
-      "packagesPath": "C:\\Users\\nakki\\.nuget\\packages\\",
-      "outputPath": "D:\\DevSkill\\DotNet\\DotNet\\obj\\",
->>>>>>> 610471b0021d603e6cfb8321ad07e5661e725586
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Nakib\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\nakki\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 610471b0021d603e6cfb8321ad07e5661e725586
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -86,8 +72,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Personal\\DevSkill\\DotNet\\DotNet\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
