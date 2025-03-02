@@ -10,8 +10,10 @@ namespace Demo.Infrastructure
 {
     public class ApplicationUnitOfWork : UnitOfWork
     {
-        public ApplicationUnitOfWork(DbContext context, IBookRepository bookRepository, IAuthorRepository authorRepository) : base(context)
+        public ApplicationUnitOfWork(ApplicationDbContext context, IBookRepository bookRepository, IAuthorRepository authorRepository) : base(context)
         {
+            BookRepository = bookRepository;
+            AuthorRepository = authorRepository;
         }
 
         public IBookRepository BookRepository { get; private set; }
