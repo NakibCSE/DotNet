@@ -1,4 +1,5 @@
-﻿using Demo.Domain.Repositories;
+﻿using Demo.Domain;
+using Demo.Domain.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Infrastructure
 {
-    public class ApplicationUnitOfWork : UnitOfWork
+    public class ApplicationUnitOfWork : UnitOfWork, IApplicationUnitOfWork
     {
         public ApplicationUnitOfWork(ApplicationDbContext context, IBookRepository bookRepository, IAuthorRepository authorRepository) : base(context)
         {
